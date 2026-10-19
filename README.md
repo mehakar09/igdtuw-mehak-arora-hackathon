@@ -5,7 +5,7 @@
 **Candidate Name:** Mehak Arora  
 **College / Campus:** Indira Gandhi Delhi Technical University for Women (IGDTUW)  
 **Module Alignment:** Module A — A tactical, high frequency stock index rebalancer. 
-**Demo Video:** []  
+**Demo Video:** [https://youtu.be/QkzNDKgmMDE]  
 **Presentation Deck:** [View Presentation](docs/presentation.pdf)  
 **Architecture Diagram:** [View Architecture](docs/architecture.png)
 
@@ -223,4 +223,4 @@ This project is distributed under the MIT License. See the [LICENSE](LICENSE) fi
 - [GitHub Repository](https://github.com/mehakar09/igdtuw-mehak-arora-hackathon)
 - [Presentation Deck](docs/presentation.pdf)
 - [Architecture Diagram](docs/architecture.png)
-- Demo Video: 
+- Demo Video: https://youtu.be/QkzNDKgmMDE
