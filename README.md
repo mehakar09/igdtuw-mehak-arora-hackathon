@@ -3,16 +3,18 @@
 ### S&P Global & Crisil Campus Hackathon 2026
 
 **Candidate Name:** Mehak Arora  
-**College Email ID:** [Add your college email address]  
 **College / Campus:** Indira Gandhi Delhi Technical University for Women (IGDTUW)  
-**Module Alignment:** Module B — Strategic, Event-Driven Portfolio Analysis  
-**Demo Video:** [Add your YouTube Unlisted video link]  
+**Module Alignment:** Module A — A tactical, high frequency stock index rebalancer. 
+**Demo Video:** []  
 **Presentation Deck:** [View Presentation](docs/presentation.pdf)  
 **Architecture Diagram:** [View Architecture](docs/architecture.png)
 
 **GitHub Repository:** https://github.com/mehakar09/igdtuw-mehak-arora-hackathon
 
 ---
+## Live Demo
+
+[Open Market Reaction Fingerprint](YOUR_DEPLOYED_STREAMLIT_URL)
 
 ## 1. Project Overview
 
