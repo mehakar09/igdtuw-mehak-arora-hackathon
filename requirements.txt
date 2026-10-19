@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+transformers
+torch
+huggingface-hub
+tqdm
